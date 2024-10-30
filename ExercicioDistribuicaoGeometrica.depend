@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1730328607 source:c:\users\fatec-dsm4\documents\codeblocksprojects\exerciciodistribuicaogeometrica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<locale.h>
+
